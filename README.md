@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm Mateus Demuno, 19y</h1>
+<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm Mateus Demuno, 21y</h1>
 
 <img
       align="center"
       height="100%"
-      src="[https://res.cloudinary.com/okkhor/image/upload/v1615227674/blog/How-to-Create-Html-Newsletters-blog-banner-1250x500.png](https://wallpaperaccess.com/full/796849.jpg)"
+      src="https://wallpaperaccess.com/full/796849.jpg"
     />
 
 
