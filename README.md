@@ -30,8 +30,11 @@
    <a href="https://cassandra.apache.org/_/index.html">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40"/>
    </a>
-   <a href="https://flask.palletsprojects.com/en/3.0.x/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
+   <a href="https://flask.palletsprojects.com/en/3.0.x/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+   </a> 
+   <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
    </a>
 </p>
 
