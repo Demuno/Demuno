@@ -27,17 +27,11 @@
    <a href="https://spark.apache.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="40" height="40"/>
    </a>
-   <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+   <a href="https://cassandra.apache.org/_/index.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40"/>
    </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   <a href="https://flask.palletsprojects.com/en/3.0.x/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
    </a>
 </p>
 
