@@ -18,14 +18,14 @@
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+   <a href="https://developer.mozilla.org/pt-BR/search?q=sql">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <a href="https://spark.apache.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="40" height="40"/>
    </a>
    <a href="https://nextjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
@@ -43,7 +43,7 @@
 
 <h4>🖥️ A tech student.</h4> 
 
-<h4>🔭 i'm a front end developer.</h4>
+<h4>🔭 i'm a data analyst.</h4>
 
 <h4>🌱 I’m currently learning javascript technologies.</h4>
 
