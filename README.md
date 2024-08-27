@@ -42,7 +42,7 @@
 
 <h4>🔭 i'm a data analyst.</h4>
 
-<h4>🌱 I’m currently learning javascript technologies.</h4>
+<h4>🌱 I’m currently learning python technologies.</h4>
 
 <h4>🧐 I’m looking for a job.</h4>
 
