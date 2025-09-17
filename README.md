@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm Mateus Demuno, 21y</h1>
+<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm Mateus Demuno, 22y</h1>
 
 <img
       align="center"
@@ -10,8 +10,8 @@
 
 
 
-<p>Hello! 👋, I've been a technology student for 6 years, today I do analysis using Python (among other tools that will be listed below), I'm a analyst specializing in data analysis, but I have the dream of becoming a data engineer in 1 year, but until then I keep studying all the time...</p>
-<p>Today I'm looking for a job opportunity for a junior analyst position in data analysis with Python or PySpark, but I'm studying hard to also have knowledge and work in the area of ​​Python development</p>
+<p>Hello! 👋, I've been a technology student for 7 years, today I do analysis using Python (among other tools that will be listed below), I'm a analyst specializing in data analysis and engineering, and i keep studying all the time...</p>
+<p>Today I'm looking for a job opportunity for a junior Analyst or Engineer position in data with Python and PySpark, but I'm studying hard to also have knowledge and work in the area of ​​Python development</p>
 
 <h2> skills <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="20" /></h2>
   <p align="center">
